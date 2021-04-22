@@ -98,3 +98,4 @@ A special thanks to [Max Schmitt](https://github.com/mxschmitt), [Joydip Roy](ht
 
 ## LICENSE
 This extension is licensed under the [MIT License](LICENSE)
+# 1
